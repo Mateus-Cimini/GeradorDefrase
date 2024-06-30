@@ -7,7 +7,7 @@ function mensagem(event){
     let contentResult = document.getElementById("result");
     let mensagem = document.getElementById("message");
 
-    alert(name)
+
 
     mensagem.innerHTML = "meu nome e " + name + " tenho " + years + " anos e " + height + " de altura";
 
